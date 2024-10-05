@@ -2,7 +2,7 @@
 
 ###
 
-<a href="https://NotYourEren.pythonanywhere.com/NotYourEren.pythonanywhere.com">
+<a href="https://NotYourEren.pythonanywhere.com/link">
   <img
     src="https://NotYourEren.pythonanywhere.com"
     alt="Current Spotify Song"
