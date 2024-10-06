@@ -10,16 +10,6 @@
 
 ###
 
-<div align="center">
-<a align="center" href="https://NotYourEren.pythonanywhere.com/link">
-  <img
-    src="https://NotYourEren.pythonanywhere.com/?theme=dark"
-    alt="Current Spotify Song"
-  />
-</a>
-</div>
-
-
 ###
 
 <img align="right" height="150" src="https://media.tenor.com/iviIq2uXz-kAAAAi/work-office.gif"  />
@@ -92,6 +82,19 @@
 ###
 
 <br clear="both">
+
+###
+
+<div align="center">
+<a align="center" href="https://NotYourEren.pythonanywhere.com/link">
+  <img
+    src="https://NotYourEren.pythonanywhere.com/?theme=dark"
+    alt="Current Spotify Song"
+  />
+</a>
+</div>
+
+###
 
 <img src="https://raw.githubusercontent.com/NotYourEren/NotYourEren/output/snake.svg" alt="Snake animation" />
 
