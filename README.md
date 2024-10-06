@@ -96,6 +96,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/NotYourEren/NotYourEren/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/krey-yon/krey-yon/output/snake.svg" alt="Snake animation" />
 
 ###
