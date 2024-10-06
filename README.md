@@ -3,6 +3,14 @@
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krey-yon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krey-yon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krey-yon&area=false&hide_border=false&hide_title=false&radius=12" height="200" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
 <a align="center" href="https://NotYourEren.pythonanywhere.com/link">
   <img
     src="https://NotYourEren.pythonanywhere.com/?theme=dark"
