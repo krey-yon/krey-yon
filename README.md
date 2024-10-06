@@ -2,14 +2,13 @@
 
 ###
 
-<a href="https://NotYourEren.pythonanywhere.com/link">
+<a align="center" href="https://NotYourEren.pythonanywhere.com/link">
   <img
     src="https://NotYourEren.pythonanywhere.com"
     alt="Current Spotify Song"
   />
 </a>
 
-[![Spotify](https://kreyon.vercel.app/api/spotify)](https://open.spotify.com/user/kreyon)
 
 ###
 
