@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-<a align="center" href="https://NotYourEren.pythonanywhere.com/link">
+<a align="center" href="https://NotYourEren.pythonanywhere.com/link?theme=dark">
   <img
     src="https://NotYourEren.pythonanywhere.com"
     alt="Current Spotify Song"
