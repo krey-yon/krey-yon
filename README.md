@@ -9,6 +9,8 @@
   />
 </a>
 
+[![Spotify](https://kreyon.vercel.app/api/spotify)](https://open.spotify.com/user/kreyon)
+
 ###
 
 <img align="right" height="150" src="https://media.tenor.com/iviIq2uXz-kAAAAi/work-office.gif"  />
