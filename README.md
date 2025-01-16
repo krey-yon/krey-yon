@@ -87,14 +87,14 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
 <a align="center" href="https://NotYourEren.pythonanywhere.com/link">
   <img
     src="https://NotYourEren.pythonanywhere.com/?theme=dark"
     alt="Current Spotify Song"
   />
 </a>
-</div>
+</div> -->
 
 ###
 
