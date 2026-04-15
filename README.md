@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=krey-yon&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
 <h1 align="center">Hi 👋! My name is vikas and I'm a developer from India.</h1>
 
 
@@ -99,5 +103,3 @@
 <img src="https://raw.githubusercontent.com/krey-yon/krey-yon/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
